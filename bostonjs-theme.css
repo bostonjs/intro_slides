@@ -1,0 +1,39 @@
+body {
+  background: #f7e26d url('./assets/bostonjs-rider.jpg') bottom right no-repeat;
+  background-size: auto 40%;
+}
+
+.bigslide {
+  font-size: 1.5em;
+}
+
+.reveal section img {
+  margin: 15px 0px;
+  background: none;
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal {
+  font-family: "Lato", sans-serif;
+  font-size: 40px;
+  font-weight: normal;
+  color: #222;
+}
+
+.reveal a {
+  color: #1b0505;
+}
+
+.reveal a em {
+  color: #908a89;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #1b0505;
+}
