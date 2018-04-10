@@ -36,7 +36,7 @@ find an organizer or contact us by DM in slack.
 #### _Tonight's Meetup_
 #### _Generously Hosted by_
 
-![BrightCove](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px)
+![BrightCove](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png)
 
 ---
 
