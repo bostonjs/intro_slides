@@ -29,35 +29,42 @@ find an organizer or contact us by DM in slack.
 
 # Slack Community
 
-[bostonjavascript.slack.com](https://bostonjavascript.slack.com/)
+[https://boston-javascript-slackin.herokuapp.com](https://boston-javascript-slackin.herokuapp.com/)
+
+---
+
+#### _Tonight's Meetup_
+#### _Generously Hosted by_
+
+![BrightCove](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px)
 
 ---
 
 #### _Tonight's Meetup_
 #### _Generously Sponsored by_
 
-![Toast](images/sponsor-logo-toast.png)
+![Elastic](http://devops.com/wp-content/uploads/2015/05/logo-elastic.png =700px)
 
 ---
 
-## Understanding the V8 Runtime
+## Inspirational Elasticsearch
 
-### _to Maximize Application Performance_
+###
 
 _with_
 
-## Dan Fields
+## Aaron Aldrich
 
-<small>([<em>@</em>danielsfields](https://twitter.com/danielsfields))</small>
+<small>([<em>@</em>CrayZeigh](https://twitter.com/CrayZeigh))</small>
 
 ---
 
-### Start drinking your
+### Anxiety or:
 
-## Coffee(Script) decaf!
+## How I Learned to Stop Worrying and Love Cybersecurity
 
 _with_
 
-## Eubene Sa 
+## Brian Sodano 
 
-<small>([<em>@</em>EubeneSa](https://twitter.com/EubeneSa))</small>
+<small>([<em>@</em>codemouse](https://twitter.com/codemouse))</small>
