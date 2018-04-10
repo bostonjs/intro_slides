@@ -43,13 +43,11 @@ find an organizer or contact us by DM in slack.
 #### _Tonight's Meetup_
 #### _Generously Sponsored by_
 
-![Elastic](http://devops.com/wp-content/uploads/2015/05/logo-elastic.png =700px)
+![Elastic](http://devops.com/wp-content/uploads/2015/05/logo-elastic.png)
 
 ---
 
 ## Inspirational Elasticsearch
-
-###
 
 _with_
 
@@ -59,9 +57,9 @@ _with_
 
 ---
 
-### Anxiety or:
+## Anxiety or:
 
-## How I Learned to Stop Worrying and Love Cybersecurity
+### How I Learned to Stop Worrying and Love Cybersecurity
 
 _with_
 
