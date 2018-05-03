@@ -15,7 +15,7 @@
 [jsconf.com/codeofconduct.html](http://jsconf.com/codeofconduct.html)
 <small>
 
-Inappropriate behavior will **not** be tolerated.
+Inappropriate behavior will **NOT** be tolerated.
 
 If you are made to feel unsafe or unwelcome,
 
@@ -34,35 +34,26 @@ find an organizer or contact us by DM in slack.
 ---
 
 #### _Tonight's Meetup_
-#### _Generously Hosted by_
+#### _Generously Hosted and Sponsored by_
 
-![BrightCove](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px)
-
----
-
-#### _Tonight's Meetup_
-#### _Generously Sponsored by_
-
-![Elastic](http://devops.com/wp-content/uploads/2015/05/logo-elastic.png)
+![Toast Inc.](images/sponsor-logo-toast.png)
 
 ---
 
-## Inspirational Elasticsearch
+## Hyped about Hyperapp
 
 _with_
 
-## Aaron Aldrich
+## Gleb Bahmutov
 
-<small>([<em>@</em>CrayZeigh](https://twitter.com/CrayZeigh))</small>
+<small>([<em>@</em>bahmutov](https://twitter.com/bahmutov))</small>
 
 ---
 
-## Anxiety or:
-
-### How I Learned to Stop Worrying and Love Cybersecurity
+## Multi-platform JavaScript
 
 _with_
 
-## Brian Sodano 
+## Jeff Whelpley
 
-<small>([<em>@</em>codemouse](https://twitter.com/codemouse))</small>
+<small>([<em>@</em>jeffwhelpley](https://twitter.com/jeffwhelpley))</small>
