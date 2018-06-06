@@ -33,27 +33,52 @@ find an organizer or contact us by DM in slack.
 
 ---
 
+#### _we are looking for_
+
+# Speakers
+
+contact us through the meetup website or in Slack
+
+---
+
 #### _Tonight's Meetup_
-#### _Generously Hosted and Sponsored by_
+#### _Generously Hosted by_
 
-![Toast Inc.](images/sponsor-logo-toast.png)
-
----
-
-## Hyped about Hyperapp
-
-_with_
-
-## Gleb Bahmutov
-
-<small>([<em>@</em>bahmutov](https://twitter.com/bahmutov))</small>
+![BrightCove](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px) 
 
 ---
 
-## Multi-platform JavaScript
+#### _Tonight's Meetup_
+#### _Generously Sponsored by_
+
+![Scrivito](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px) 
+
+---
+
+## Client-Side Performance Timing, with the Performance API
 
 _with_
 
-## Jeff Whelpley
+## Jeff Harmon
 
-<small>([<em>@</em>jeffwhelpley](https://twitter.com/jeffwhelpley))</small>
+<small>([<em>@</em>jrharmon82](https://twitter.com/jrharmon82))</small>
+
+---
+
+## JavaScript Mad Libs - an intro to natural language processing
+
+_with_
+
+## Jen Weber
+
+<small>([<em>@</em>jwwweber](https://twitter.com/jwwweber))</small>
+
+---
+
+## Tensorflow.js: A Lightning Intro to Machine Learning in JavaScript
+
+_with_
+
+## Kevin Scott
+
+<small>([<em>@</em>thekevinscott](https://twitter.com/thekevinscott))</small>
