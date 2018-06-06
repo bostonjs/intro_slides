@@ -37,7 +37,8 @@ find an organizer or contact us by DM in slack.
 
 # Speakers
 
-contact us through the meetup website or in Slack
+contact us <br/>
+through the Meetup website or in Slack
 
 ---
 
@@ -51,7 +52,7 @@ contact us through the meetup website or in Slack
 #### _Tonight's Meetup_
 #### _Generously Sponsored by_
 
-![Scrivito](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px) 
+![Scrivito](https://bostonjavascript.slack.com/files/UA1PR6K99/FB2SJR074/scrivito-logo-color-white-background.svg) 
 
 ---
 
