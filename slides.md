@@ -43,43 +43,26 @@ through the Meetup website or in Slack
 ---
 
 #### _Tonight's Meetup_
-#### _Generously Hosted by_
+#### _Generously Hosted and Sponsored by_
 
-![BrightCove](https://www.onelogin.com/assets/img/partners/logos/app-ptr-brightcove.png =700px) 
-
----
-
-#### _Tonight's Meetup_
-#### _Generously Sponsored by_
-
-![Scrivito](https://bostonjavascript.slack.com/files/UA1PR6K99/FB2SJR074/scrivito-logo-color-white-background.svg) 
+![RightPoint](http://ww1.prweb.com/prfiles/2017/05/17/14346368/RightpointNEW.png =800x) 
 
 ---
 
-## Client-Side Performance Timing, with the Performance API
+## A-Frame and You
 
 _with_
 
-## Jeff Harmon
+## Adam Conrad
 
-<small>([<em>@</em>jrharmon82](https://twitter.com/jrharmon82))</small>
-
----
-
-## JavaScript Mad Libs - an intro to natural language processing
-
-_with_
-
-## Jen Weber
-
-<small>([<em>@</em>jwwweber](https://twitter.com/jwwweber))</small>
+<small>([<em>@</em>theadamconrad](https://twitter.com/theadamconrad))</small>
 
 ---
 
-## Tensorflow.js: A Lightning Intro to Machine Learning in JavaScript
+## Hello React360
 
 _with_
 
-## Kevin Scott
+## Christina Kayastha
 
-<small>([<em>@</em>thekevinscott](https://twitter.com/thekevinscott))</small>
+<small>([<em>@</em>christikaes](https://twitter.com/christikaes))</small>
