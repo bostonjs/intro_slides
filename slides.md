@@ -45,7 +45,7 @@ through the Meetup website or in Slack
 #### _Tonight's Meetup_
 #### _Generously Hosted and Sponsored by_
 
-![RightPoint](http://ww1.prweb.com/prfiles/2017/05/17/14346368/RightpointNEW.png =800x) 
+![RightPoint](images/Rightpoint_red_black_RGB.png) 
 
 ---
 
