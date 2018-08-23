@@ -45,8 +45,8 @@ through the Meetup website or in Slack
 #### _Tonight's Meetup_
 #### _Generously Hosted and Sponsored by_
 
-![ezCater](https://www.concur.com/sites/default/files/ezcater_logo_0.jpg)
 <img src="https://www.concur.com/sites/default/files/ezcater_logo_0.jpg" />
+
 ---
 
 ## Life saver patterns in Vue.js
