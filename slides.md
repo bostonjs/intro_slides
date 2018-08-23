@@ -45,24 +45,24 @@ through the Meetup website or in Slack
 #### _Tonight's Meetup_
 #### _Generously Hosted and Sponsored by_
 
-![](images/Rightpoint_red_black_RGB.png) 
-
+![ezCater](https://www.concur.com/sites/default/files/ezcater_logo_0.jpg)
+<img src="https://www.concur.com/sites/default/files/ezcater_logo_0.jpg" />
 ---
 
-## A-Frame and You
+## Life saver patterns in Vue.js
 
 _with_
 
-## Adam Conrad
+## Selçuk Kiraz
 
-<small>([<em>@</em>theadamconrad](https://twitter.com/theadamconrad))</small>
+<small>([<em>@</em>celljuke](https://twitter.com/celljuke))</small>
 
 ---
 
-## Hello React360
+## JSON Schemas are your True Testing Friend
 
 _with_
 
-## Christina Kayastha
+## Gleb Bahmutov
 
-<small>([<em>@</em>christikaes](https://twitter.com/christikaes))</small>
+<small>([<em>@</em>bahmutov](https://twitter.com/bahmutov))</small>
