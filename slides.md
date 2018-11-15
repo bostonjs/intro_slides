@@ -45,24 +45,24 @@ through the Meetup website or in Slack
 #### _Tonight's Meetup_
 #### _Generously Hosted and Sponsored by_
 
-<img src="https://www.concur.com/sites/default/files/ezcater_logo_0.jpg" />
-
+<!-- <img src="https://www.concur.com/sites/default/files/ezcater_logo_0.jpg" /> -->
+![ezCater](images/ezCater_Logo_Normal.png)
 ---
 
-## Life saver patterns in Vue.js
+## Rapid development & testing with Apollo and Lunar
 
 _with_
 
-## Selçuk Kiraz
+## Mark Faga
 
-<small>([<em>@</em>celljuke](https://twitter.com/celljuke))</small>
+<small>([<em>@</em>markjfaga](https://twitter.com/markjfaga))</small>
 
 ---
 
-## JSON Schemas are your True Testing Friend
+## World-Wide JavaScript
 
 _with_
 
-## Gleb Bahmutov
+## Andy Mockler
 
-<small>([<em>@</em>bahmutov](https://twitter.com/bahmutov))</small>
+<small>([<em>@</em>asmockler](https://twitter.com/asmockler))</small>
