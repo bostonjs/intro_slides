@@ -2,7 +2,7 @@
 
 #### _Welcome To_
 
-# BostonJS
+# Boston-Holiday-JS
 
 [<em>@</em>bos_js](https://twitter.com/bos_js)  &nbsp; ~ &nbsp; [<em>#</em>bostonjs](https://twitter.com/search?q=%23bostonjs&src=typd)
 
@@ -25,6 +25,19 @@ find an organizer or contact us by DM in slack.
 
 ---
 
+#### _Organizers tonight_
+
+## Lina Lekova 
+<small>([<em>@</em>linalekova](https://twitter.com/linalekova))</small>
+
+## Vinay Raghu
+<small>([<em>@</em>rvinay88](https://twitter.com/rvinay88))</small>
+
+## Adam Conrad
+<small>([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))</small>
+
+---
+
 #### _we have a_
 
 # Slack Community
@@ -42,27 +55,49 @@ through the Meetup website or in Slack
 
 ---
 
-#### _Tonight's Meetup_
-#### _Generously Hosted and Sponsored by_
+#### _Tonight's Meetup is_
+## Generously Hosted and Sponsored by
 
-<!-- <img src="https://www.concur.com/sites/default/files/ezcater_logo_0.jpg" /> -->
-![ezCater](images/ezCater_Logo_Normal.png)
----
-
-## Rapid development & testing with Apollo and Lunar
-
-_with_
-
-## Mark Faga
-
-<small>([<em>@</em>markjfaga](https://twitter.com/markjfaga))</small>
+![chewy](http://itp16.itpalooza.com/wp-content/uploads/2016/07/chewy-logo.png)
 
 ---
 
-## World-Wide JavaScript
+## Live Share for vscode
 
-_with_
+###### _with_
 
-## Andy Mockler
+## Burke Holland
 
-<small>([<em>@</em>asmockler](https://twitter.com/asmockler))</small>
+<small>([<em>@</em>burkeholland](https://twitter.com/burkeholland))</small>
+
+---
+
+## Vue.js for React devs
+
+###### _with_
+
+## Vinay Raghy
+
+<small>([<em>@</em>rvinay88](https://twitter.com/rvinay88))</small>
+
+---
+
+#### _Tonight we will have_
+
+# Ungly Sweater Competition
+
+#### Winners
+
+#### will be announced after the talks
+
+---
+
+#### _Tonight we will have_
+
+# RAFFLE
+
+#### Winners
+
+#### will be announced after the talks
+
+
