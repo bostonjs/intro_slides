@@ -76,7 +76,7 @@ through the Meetup website or in Slack
 
 ###### _with_
 
-## Vinay Raghy
+## Vinay Raghu
 
 <small>([<em>@</em>rvinay88](https://twitter.com/rvinay88))</small>
 
