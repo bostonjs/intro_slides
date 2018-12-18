@@ -84,7 +84,7 @@ through the Meetup website or in Slack
 
 #### _Tonight we will have_
 
-# Ungly Sweater Competition
+# Ugly Sweater Competition
 
 #### Winners
 
