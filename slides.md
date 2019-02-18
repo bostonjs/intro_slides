@@ -1,44 +1,44 @@
 <!-- .slide: class="bigslide" -->
 
-#### _Welcome To_
+#### Welcome To
 
-# Boston-Holiday-JS
+# Boston❤️JS 
 
 [<em>@</em>bos_js](https://twitter.com/bos_js)  &nbsp; ~ &nbsp; [<em>#</em>bostonjs](https://twitter.com/search?q=%23bostonjs&src=typd)
 
 ---
 
-#### _we have a_
+#### we have a
 
 # Code of Conduct
 
 [jsconf.com/codeofconduct.html](http://jsconf.com/codeofconduct.html)
 <small>
 
-Inappropriate behavior will **NOT** be tolerated.
+###### Inappropriate behavior will **NOT** be tolerated.
 
-If you are made to feel unsafe or unwelcome,
+###### If you are made to feel unsafe or unwelcome,
 
-find an organizer or contact us by DM in slack.
+###### find an organizer or contact us by DM in slack.
 
 </small>
 
 ---
 
-#### _Organizers tonight_
+#### Organizers tonight
 
 ## Lina Lekova 
-<small>([<em>@</em>linalekova](https://twitter.com/linalekova))</small>
+###### ([<em>@</em>linalekova](https://twitter.com/linalekova))
 
 ## Vinay Raghu
-<small>([<em>@</em>rvinay88](https://twitter.com/rvinay88))</small>
+###### ([<em>@</em>rvinay88](https://twitter.com/rvinay88))
 
 ## Adam Conrad
-<small>([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))</small>
+###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))
 
 ---
 
-#### _we have a_
+#### we have a
 
 # Slack Community
 
@@ -46,58 +46,38 @@ find an organizer or contact us by DM in slack.
 
 ---
 
-#### _we are looking for_
+#### we are looking for
 
 # Speakers
 
-contact us <br/>
-through the Meetup website or in Slack
+###### contact us 
+
+###### through the Meetup website or in Slack
 
 ---
 
-#### _Tonight's Meetup is_
+#### Tonight's Meetup is
 ## Generously Hosted and Sponsored by
 
-![chewy](http://itp16.itpalooza.com/wp-content/uploads/2016/07/chewy-logo.png)
+![kayak](./images/kayak_logo.png)
 
 ---
 
-## Live Share for vscode
+## Artificial Intelligence in the browser
 
-###### _with_
+###### with
 
-## Burke Holland
+## Sudeep Sinha
 
-<small>([<em>@</em>burkeholland](https://twitter.com/burkeholland))</small>
-
----
-
-## Vue.js for React devs
-
-###### _with_
-
-## Vinay Raghu
-
-<small>([<em>@</em>rvinay88](https://twitter.com/rvinay88))</small>
+###### Web developer at KAYAK
 
 ---
 
-#### _Tonight we will have_
+## AJAX Avalanche
 
-# Ugly Sweater Competition
+###### with
 
-#### Winners
+## Dan Robertson
 
-#### will be announced after the talks
-
----
-
-#### _Tonight we will have_
-
-# RAFFLE
-
-#### Winners
-
-#### will be announced after the talks
-
+###### Web developer at KAYAK
 
