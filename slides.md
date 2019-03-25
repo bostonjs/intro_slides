@@ -2,7 +2,7 @@
 
 #### Welcome To
 
-# Boston❤️JS 
+# Boston JS 
 
 [<em>@</em>bos_js](https://twitter.com/bos_js)  &nbsp; ~ &nbsp; [<em>#</em>bostonjs](https://twitter.com/search?q=%23bostonjs&src=typd)
 
@@ -30,11 +30,11 @@
 ## Lina Lekova 
 ###### ([<em>@</em>linalekova](https://twitter.com/linalekova))
 
-## Vinay Raghu
-###### ([<em>@</em>rvinay88](https://twitter.com/rvinay88))
-
 ## Adam Conrad
 ###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))
+
+## Vinay Raghu
+###### ([<em>@</em>rvinay88](https://twitter.com/rvinay88))
 
 ---
 
@@ -56,28 +56,35 @@
 
 ---
 
-#### Tonight's Meetup is
-## Generously Hosted and Sponsored by
+#### Tonight's Meetup is generously 
+#### Hosted by
 
-![kayak](./images/kayak_logo.png)
-
----
-
-## Artificial Intelligence in the browser
-
-###### with
-
-## Sudeep Sinha
-
-###### Web developer at KAYAK
+![GSV](./images/GSVLabsBoston_logo.png)
 
 ---
 
-## AJAX Avalanche
+#### Tonight's Meetup is generously
+#### Sponsored by 
+
+![Indigo](./images/indigo_logo.png)
+
+---
+
+### Spatial Indexing in JavaScript with Uber H3
 
 ###### with
 
-## Dan Robertson
+## Ian Schwartz
 
-###### Web developer at KAYAK
+###### Front-End Web Developer
 
+---
+
+### The Lost Socks of React: 
+### Where do I put that Component?
+
+###### with
+
+## Adam Conrad
+
+###### Principal UX Engineer
