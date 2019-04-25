@@ -57,34 +57,28 @@
 ---
 
 #### Tonight's Meetup is generously 
-#### Hosted by
+#### Hosted and Sponsored by 
 
-![GSV](./images/GSVLabsBoston_logo.png)
-
----
-
-#### Tonight's Meetup is generously
-#### Sponsored by 
-
-![Indigo](./images/indigo_logo.png)
+![Chewy](./images/Chewy_Logo.jpg)
 
 ---
 
-### Spatial Indexing in JavaScript with Uber H3
+### Security in the browser - Keeping the sandbox safe
 
 ###### with
 
-## Ian Schwartz
+## Tommy Parnell
 
-###### Front-End Web Developer
+###### Senior Software Engineer
+###### @TerribleDev
 
 ---
 
-### The Lost Socks of React: 
-### Where do I put that Component?
+### The Life Changing Magic of Tidying JS
 
 ###### with
 
-## Adam Conrad
+## Brian Chitester
 
-###### Principal UX Engineer
+###### Front-End Developer
+###### @yagoogaly
