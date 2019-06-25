@@ -70,7 +70,6 @@
 ## Ethan Strominger
 
 ###### Full Stack Software Engineer
-###### 
 
 ---
 
