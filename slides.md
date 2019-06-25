@@ -30,11 +30,11 @@
 ## Lina Lekova 
 ###### ([<em>@</em>linalekova](https://twitter.com/linalekova))
 
-## Adam Conrad
-###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))
-
 ## Vinay Raghu
 ###### ([<em>@</em>rvinay88](https://twitter.com/rvinay88))
+
+## Adam Conrad
+###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))
 
 ---
 
@@ -63,22 +63,22 @@
 
 ---
 
-### Security in the browser - Keeping the sandbox safe
+### Asynchronous JavaScript
 
 ###### with
 
-## Tommy Parnell
+## Ethan Strominger
 
-###### Senior Software Engineer
-###### @TerribleDev
+###### Full Stack Software Engineer
+###### 
 
 ---
 
-### The Life Changing Magic of Tidying JS
+### Visual Testing and Code Coverage
 
 ###### with
 
-## Brian Chitester
+## Gleb Bahmutov
 
-###### Front-End Developer
-###### @yagoogaly
+###### JavaScript developer
+###### @bahmutov
