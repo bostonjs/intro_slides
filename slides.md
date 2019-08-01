@@ -80,4 +80,3 @@
 ## Jen Weber
 
 ###### Software engineer
-###### @bahmutov
