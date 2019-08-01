@@ -59,25 +59,25 @@
 #### Tonight's Meetup is generously 
 #### Hosted and Sponsored by 
 
-![Chewy](./images/Chewy_Logo.jpg)
+![TagUp](./images/tagup.png)
 
 ---
 
-### Asynchronous JavaScript
+### Web Components, Proxy, Class and CanJS 6
 
 ###### with
 
-## Ethan Strominger
+## Justin Meyer
 
-###### Full Stack Software Engineer
+###### CEO of Bitovi
 
 ---
 
-### Visual Testing and Code Coverage
+### Debugging secrets of the pros, for everyone
 
 ###### with
 
-## Gleb Bahmutov
+## Jen Weber
 
-###### JavaScript developer
+###### Software engineer
 ###### @bahmutov
