@@ -59,24 +59,24 @@
 #### Tonight's Meetup is generously 
 #### Hosted and Sponsored by 
 
-![TagUp](./images/tagup.png)
+![Smartsheet](./images/smartsheet.png)
 
 ---
 
-### Web Components, Proxy, Class and CanJS 6
+### How to Code Review JavaScript
 
 ###### with
 
-## Justin Meyer
+## Adam Conrad
 
-###### CEO of Bitovi
+###### Director of Engineering at Indigo
 
 ---
 
-### Debugging secrets of the pros, for everyone
+### The Simplest Guide To D3
 
 ###### with
 
-## Jen Weber
+## Bob Cavezza
 
-###### Software engineer
+###### Director of Product Engineering at Fincura
