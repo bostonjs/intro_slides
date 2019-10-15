@@ -31,7 +31,7 @@
 ###### ([<em>@</em>linalekova](https://twitter.com/linalekova))
 
 ## Vinay Raghu
-###### ([<em>@</em>rvinay88](https://twitter.com/rvinay88))
+###### ([<em>@</em>vinayraghu](https://twitter.com/vinayraghu))
 
 ## Adam Conrad
 ###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))
