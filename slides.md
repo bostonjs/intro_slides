@@ -59,24 +59,24 @@
 #### Tonight's Meetup is generously 
 #### Hosted and Sponsored by 
 
-![Smartsheet](./images/smartsheet.png)
+![Chewy](./images/Chewy_Logo.png)
 
 ---
 
-### How to Code Review JavaScript
+### JAM Stack Data: The Final Frontier
 
 ###### with
 
-## Adam Conrad
+## Evan Weaver
 
-###### Director of Engineering at Indigo
+###### CEO of Fauna
 
 ---
 
-### The Simplest Guide To D3
+### Combining different data structures for your Gatsby website
 
 ###### with
 
-## Bob Cavezza
+## Vinay Raghu
 
-###### Director of Product Engineering at Fincura
+###### Software Engineer at Chewy
