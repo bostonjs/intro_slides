@@ -2,9 +2,9 @@
 
 #### Welcome To
 
-# Boston JS 
+# Boston JS
 
-[<em>@</em>bos_js](https://twitter.com/bos_js)  &nbsp; ~ &nbsp; [<em>#</em>bostonjs](https://twitter.com/search?q=%23bostonjs&src=typd)
+[<em>@</em>bos_js](https://twitter.com/bos_js) &nbsp; ~ &nbsp; [<em>#</em>bostonjs](https://twitter.com/search?q=%23bostonjs&src=typd)
 
 ---
 
@@ -27,14 +27,32 @@
 
 #### Organizers tonight
 
-## Lina Lekova 
+## Lina Lekova
+
 ###### ([<em>@</em>linalekova](https://twitter.com/linalekova))
 
 ## Vinay Raghu
+
 ###### ([<em>@</em>vinayraghu](https://twitter.com/vinayraghu))
 
 ## Adam Conrad
-###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad ))
+
+###### ([<em>@</em>theadamconrad ](https://twitter.com/theadamconrad))
+
+---
+
+#### Photography
+
+## Adriana Rios
+
+###### (photography)
+
+## Ndaba Ndebele
+
+###### (videography)
+
+- Thank you for signing the photo release
+- Video will be posted after the event in slack
 
 ---
 
@@ -50,33 +68,40 @@
 
 # Speakers
 
-###### contact us 
+###### contact us
 
 ###### through the Meetup website or in Slack
 
----
-
-#### Tonight's Meetup is generously 
-#### Hosted and Sponsored by 
-
-![Chewy](./images/Chewy_Logo.png)
+###### (all experience levels welcome)
 
 ---
 
-### JAM Stack Data: The Final Frontier
+#### Tonight's Meetup is generously
+
+#### Hosted and Sponsored by
+
+## Fidelity Investments
+
+## Juliana Roche
+
+## Jessie Ngo
+
+---
+
+### The Javascript Test Pyramid
 
 ###### with
 
-## Evan Weaver
+## Jeff Suarez
 
-###### CEO of Fauna
+###### Project Cocoon - Fidelity Labs
 
 ---
 
-### Combining different data structures for your Gatsby website
+### Building for Budgets
 
 ###### with
 
-## Vinay Raghu
+## Guy Livne
 
-###### Software Engineer at Chewy
+###### Software engineer - Chewy
